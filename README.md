@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Mar  
 
-Industrial with experience in team supervision, data analysis, and project management.  
+Industrial Engineer with experience in team supervision, data analysis, and project management.  
 I’m passionate about technology, teaching, and continuous learning. 🚀  
 
 ---
