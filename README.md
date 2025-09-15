@@ -14,7 +14,7 @@ I’m passionate about technology, teaching, and continuous learning. 🚀
 
 ### 📫 Get in Touch
 
-![LinkedIn](https://www.linkedin.com/in/mariadelmaracs/)
+![Website](https://www.linkedin.com/in/mariadelmaracs/)
 
 ---
 
