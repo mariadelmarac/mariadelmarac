@@ -19,3 +19,7 @@ I’m passionate about technology, teaching, and continuous learning. 🚀
 ---
 
 ✨ *Fun fact:* I enjoy learning about AI, reading, and spending time with my dog Cory 🐶.  
+
+#### :zap: Recent Activity
+<!--START_SECTION: activity-->
+<!--END_SECTION: activity-->
