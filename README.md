@@ -22,12 +22,12 @@ I’m passionate about technology, teaching, and continuous learning. 🚀
 
 #### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
-1. ⬆️ Pushed 2 commit(s) to [mariadelmarac/myFirstRepo](https://github.com/mariadelmarac/myFirstRepo)<br>
-2. 🎉 Merged PR [#7](https://github.com/mariadelmarac/myFirstRepo/pull/7) in [mariadelmarac/myFirstRepo](https://github.com/mariadelmarac/myFirstRepo)<br>
-3. ⬆️ Pushed 1 commit(s) to [mariadelmarac/myFirstRepo](https://github.com/mariadelmarac/myFirstRepo)<br>
-4. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac.github.io](https://github.com/mariadelmarac/mariadelmarac.github.io)<br>
-5. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac.github.io](https://github.com/mariadelmarac/mariadelmarac.github.io)<br>
+1. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
+2. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
+3. ⬆️ Pushed 3 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
+4. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
+5. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Wednesday, September 24th, 2025, 5:23:23 PM
+Last Updated: Thursday, September 25th, 2025, 1:39:48 AM
 <!--RECENT_ACTIVITY:last_update_end-->
