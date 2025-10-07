@@ -23,11 +23,11 @@ I’m passionate about technology, teaching, and continuous learning. 🚀
 #### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start-->
 1. ⬆️ Pushed 1 commit(s) to [mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning](https://github.com/mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning)<br>
-2. 📔 Created new repository [mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning](https://github.com/mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning)<br>
-3. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
-4. ⬆️ Pushed 1 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
-5. ⬆️ Pushed 3 commit(s) to [mariadelmarac/mariadelmarac](https://github.com/mariadelmarac/mariadelmarac)<br>
+2. ⬆️ Pushed 1 commit(s) to [mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning](https://github.com/mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning)<br>
+3. ⬆️ Pushed 1 commit(s) to [mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning](https://github.com/mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning)<br>
+4. ⬆️ Pushed 1 commit(s) to [mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning](https://github.com/mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning)<br>
+5. 📔 Created new repository [mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning](https://github.com/mariadelmarac/Football-Club-Data-Analysis-with-Machine-Learning)<br>
 <!--RECENT_ACTIVITY:end-->
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Tuesday, October 7th, 2025, 1:38:05 AM
+Last Updated: Tuesday, October 7th, 2025, 12:44:16 PM
 <!--RECENT_ACTIVITY:last_update_end-->
